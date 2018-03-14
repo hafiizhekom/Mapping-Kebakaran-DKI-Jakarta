@@ -1,0 +1,68 @@
+tanggal_kejadian,lokasi_kejadian,wilayah,jumlah_sarana_rusak,kategori_sarana_rusak,penyebab,jumlah_sarana_menangani,tim_yang_menangani,lokasi_pengungsi,kerugian
+2017-06-01,"Jl. Kramat Jaya Baru E5 No. 147, RT.04 RW.010 (Titik Kenal Belakang Pasar UKM) Kel. Johar Baru Kec. Johar Baru",Jakarta Pusat,1,Rumah Tinggal,Korsleting Listrik,16,Dinas Pemadam Kebakaran ,Tidak Ada,20000000
+2017-06-02,"Jl. Salemba Tengah, belakang RS. St Carolus Kel. Paseban Kec. Senen",Jakarta Pusat,1,Ruang Laundry RS. St. Corolus,Korsleting Listrik,22,Dinas Pemadam Kebakaran ,Tidak Ada,900000000
+2017-06-02,Jl. Taruna Gg. 3 RT. 04 RW. 03 Kel Serdang Kec. Kemayoran,Jakarta Pusat,1,Rumah Tinggal ,Dalam Penyelidikan,2,Dinas Pemadam Kebakaran ,Tidak Ada,2000000
+2017-06-07,Jl. Karang Anyar A No. 3 RT. 17 RW. 6 Kel. Karang Anyar Kec. Sawah Besar,Jakarta Pusat,1,Bengkel Mobil ,Korsleting Listrik,13,Dinas Pemadam Kebakaran ,Tidak Ada,300000000
+2017-06-12,Jl. Mangga Dua Raya Kel. Mangga Dua Selatan Kec. Sawah Besar,Jakarta Pusat,1,Gudang,Korsleting Listrik,2,Dinas Pemadam Kebakaran ,Tidak Ada,0
+2017-06-16,Jl. Administrasi LAN II  No.6    RT. 04 RW. 11 Kel. Petamburan Kec. Tanah Abang,Jakarta Pusat,1,Rumah Tinggal,Korsleting Listrik,15,Dinas Pemadam Kebakaran ,Tidak Ada,150000000
+2017-06-18,"Gedung Nusantara 2 DPR/MPR, Jl. Jend. Gatot Subroto RT.01 RW.03, Kel. Gelora Kec. Tananh Abang",Jakarta Pusat,1,Rumah Tinggal,Korsleting Listrik,15,Dinas Pemadam Kebakaran ,Tidak Ada,35000000
+2017-06-19,Jl. Kramat Pulo Dalam 2   RT.011 RW.04 Kel. Kramat Kec. Senen,Jakarta Pusat,1,Rumah Tinggal,Korsleting Listrik,1,Dinas Pemadam Kebakaran ,Tidak Ada,0
+2017-06-21,Jl. Tambak II No. 08 RT. 09 RW. 05 Kel. Pengangsaan Kec. Menteng,Jakarta Pusat,1,Kantor (Yayasan Anak Bangsa),Korsleting Listrik,1,Dinas Pemadam Kebakaran ,Tidak Ada,20000000
+2017-06-22,Jl. Remaja 3 no.13 Gang siaga 2 RT.02 RW.03 Kel. Cempaka Baru Kec. Kemayoran ,Jakarta Pusat,1,Rumah Tinggal ,Korsleting Listrik,19,Dinas Pemadam Kebakaran ,Tidak Ada,150000000
+2017-06-24,Jl. Mutiara Raya Kav.1   RT.014  RW.03 Kel.Sumur Batu Kec. Kemayoran,Jakarta Pusat,1,Plafon SMK Poncol,Korsleting Listrik,2,Dinas Pemadam Kebakaran ,Tidak Ada,0
+2017-06-25,Jl. Kebon Jahe 3 No.4   RT.01  RW.02 Kel. Petojo Selatan Kec.Gambir,Jakarta Pusat,1,Rumah Tinggal ,Puntung Rokok,12,Dinas Pemadam Kebakaran ,Tidak Ada,450000000
+2017-06-25,Jl. Krekot Bunderan IV   RT.05  RW.06 Kel. Pasar Baru Kec. Sawah Besar,Jakarta Pusat,1,Rumah Tinggal ,Korsleting Listrik,14,Dinas Pemadam Kebakaran ,Tidak Ada,2000000
+2017-06-25,Jl. Citarum Atas   RT.018  RW.01 Kel.Cideng Kec.Gambir,Jakarta Pusat,12,Rumah Tinggal ,Korsleting Listrik,28,Dinas Pemadam Kebakaran ,Tidak Ada,600000000
+2017-06-02,Komplek Gren Garden Blok A17 No. 26 RT. 08 RW. 02 Kel. Rorotan Kec. Cilincing,Jakarta Utara,1,Rumah Tinggal ,Korsleting Listrik,1,Dinas Pemadam Kebakaran ,Tidak Ada,70000000
+2017-06-03,Jl. Arteri Pegangsaan Barat Rw.20 Kel. Pengangsaan Dua Kec. Kelapa Gading,Jakarta Utara,1,Rumah Tinggal,Dalam Penyelidikan,13,Dinas Pemadam Kebakaran ,Tidak Ada,10000000
+2017-06-03,Jl. Tanah Pasir RT. 13 RW. 11 Kel. Penjaringan Kec. Penjaringan,Jakarta Utara,1,Rumah Tinggal ,Korsleting Listrik,3,Dinas Pemadam Kebakaran ,Tidak Ada,300000
+2017-06-04,Jl. R.E Martadinata  Jemb. PLTU Kel. Pademangan Timur Kec. Pademangan ,Jakarta Utara,1,Warung Seafood,Korsleting Listrik,3,Dinas Pemadam Kebakaran ,Tidak Ada,100000000
+2017-06-05,"Jl. Perjuangan Raya 2 Tanah Merah RT. 05,07  RW. 07 Kel.  Tugu Selatan Kec. Koja",Jakarta Utara,80,Rumah Tinggal,Korsleting Listrik,17,Dinas Pemadam Kebakaran ,Tenda Warga RT 07 RW 07,2000000000
+2017-06-08,Jl. Tipar Cakung No. 144 RT. 03 RW. 01 Kel. Sukapura Kec. Cilincing,Jakarta Utara,1,Rumah Tinggal,Korsleting Listrik,3,Dinas Pemadam Kebakaran ,Tidak Ada,200000
+2017-06-08,Jl. Muara Baru Tembok Bolong RT. 01 RW. 17 Kec. Penjaringan Kel. Penjaringan,Jakarta Utara,1,Rumah Tinggal,Korsleting Listrik,17,Dinas Pemadam Kebakaran ,Tidak Ada,150000000
+2017-06-09,Jl. Kedondong RT. 08 RW. 06 Kel. Sunter Jaya Kec. Tanjung Priok,Jakarta Utara,15,Rumah Kontrakan,Korsleting Listrik,5,Dinas Pemadam Kebakaran ,Tidak Ada,200000000
+2017-06-19,Jl. Walang Baru V No.06    RT. 010 RW. 07 Kel. Tugu Utara Kec. Koja,Jakarta Utara,1,Rumah Tinggal,Korsleting Listrik,6,Dinas Pemadam Kebakaran ,Tidak Ada,50000000
+2017-06-20,Jl. Budi Mulia RT 05 RW 05 Kel. Pademangan Barat Kec. Pademangan,Jakarta Utara,7,Rumah Tinggal,Korsleting Listrik,11,Dinas Pemadam Kebakaran ,Rumah Warga RW 05,700000000
+2017-06-20,Jl. Papango RT 006 RW 002 Kel. Tanjung Priok Kec. Tanjung Priok,Jakarta Utara,1,Rumah Tinggal,Kompor Gas,3,Dinas Pemadam Kebakaran ,Tidak Ada,200000000
+2017-06-23,Jl. Blok K.7 Selatan RT. 09 RW. 01 Kel. Penjaringan Kec. Penjaringan,Jakarta Utara,1,Rumah Tinggal,Korsleting Listrik,2,Dinas Pemadam Kebakaran ,Tidak Ada,150000000
+2017-06-24,Jl. Lontar V Kel. Tugu Utara Kec. Koja,Jakarta Utara,2,Rumah Tinggal,Korsleting Listrik,11,Dinas Pemadam Kebakaran ,Tidak Ada,350000000
+2017-06-25,Jl. Kerapu RT 008/ RW 001 Kel. Ancol Kec. Pademangan,Jakarta Utara,5,Rumah Tinggal,Korsleting Listrik,21,Dinas Pemadam Kebakaran ,Tidak Ada,150000000
+2017-06-27, Jl. Kenanga Jembatan Hitam  RT. 11 RW. 03 Kel. Sunter Agung Kec. Tanjung Priok,Jakarta Utara,2,Rumah Tinggal,Korsleting Listrik,8,Dinas Pemadam Kebakaran ,Tidak Ada,200000000
+2017-06-28,Jl. Kertajaya 1 RT. 16 RW. 14 Kel. Penjaringan Kec. Penjaringan,Jakarta Utara,1,Rumah Kontrakan dan Rumah Makan,Dalam Penyelidikan,14,Dinas Pemadam Kebakaran ,Tidak Ada,250000000
+2017-06-28,Jl. Kelapa Cengkir Barat XIII Blok FT 1 RT. 09 RW. 13 Kel. Klp Gading Timur Kec. Klp Gading,Jakarta Utara,1,Rumah dan Rumah Makan,Korsleting Listrik,3,Dinas Pemadam Kebakaran ,Tidak Ada,200000000
+2017-06-30, Jl. Perjuangan Tanah Merah   RT.04  RW.07 Kel. Tugu Selatan Kec. Koja,Jakarta Utara,1,Rumah Tinggal,Korsleting Listrik,4,Dinas Pemadam Kebakaran ,Tidak Ada,200000000
+2017-06-01,Jl. Green Ville Blok B L No. 39   RT. 08 RW. 014 Kel. Duri Kelapa Kec. Kebon Jeruk,Jakarta Barat,1,Sebagian Ruko,Korsleting Listrik,8,Dinas Pemadam Kebakaran ,Tidak Ada,5000000
+2017-06-03,Jl. H Hamid Duri kosambi   RT. 03 RW. 03 Kel. Duri Kosambi Kec. Cengkareng,Jakarta Barat,1,Rumah Tinggal ,Korsleting Listrik,3,Dinas Pemadam Kebakaran ,Tidak Ada,4000000
+2017-06-06,Jl. Kerendang Pulo RT. 06 RW. 01 Kel. Duri Utara Kec Tambora,Jakarta Barat,1,Rumah Tinggal,Korsleting Listrik,4,Dinas Pemadam Kebakaran ,Tidak Ada,2000000
+2017-06-07,Jl. Sawah Lio RT. 09 RW. 08 Kel. Jembatan Lima Kec. Tambora,Jakarta Barat,22,Rumah Tinggal,Korsleting Listrik,22,Dinas Pemadam Kebakaran ,"Mushola Alkhosihin , Rumah Warga ",800000000
+2017-06-11,Jl. Kampung Gaga  RT. 07 RW. 03 Kel. Semanan Kec. Kalideres,Jakarta Barat,1,Rumah Tinggal,Korsleting Listrik,4,Dinas Pemadam Kebakaran ,Tidak Ada,8000000
+2017-06-14,Jl. Laksa 1   RT.011  RW.03 Kel. Jembatan Lima Kec. Tambora,Jakarta Barat,1,Gudang Peralatan Rumah Tangga,Korsleting Listrik,22,Dinas Pemadam Kebakaran ,Tidak Ada,0
+2017-06-16,Jl.Kebon Jahe Gg.Masdjid Al.Munawaroh RT. 15 RW. 11 Kel. Kapuk Kec. Cengkareng,Jakarta Barat,1,Rumah Tinggal,Korsleting Listrik,1,Dinas Pemadam Kebakaran ,Tidak Ada,1000000
+2017-06-22, Jl. Blok K.7 Selatan RT. 09 RW. 01 Kel.Penjaringan Kec. Tambora,Jakarta Barat,1,Rumah Tinggal,Obat Nyamuk Bakar mengenai kasur,11,Dinas Pemadam Kebakaran ,Tidak Ada,50000000
+2017-06-23,Jl. Satu Maret RT.05/RW.02 Kel.Pegadungan Kec. Kalideres,Jakarta Barat,6,Rumah Kontrakan,Korsleting listrik,11,Dinas Pemadam Kebakaran ,Tidak Ada,300000000
+2017-06-25,Jl. Alpukat  RT 001/ RW 002 Kel.Tanjung Duren Utara Kec. Grogol Petamburan,Jakarta Barat,1,Rumah Tinggal,Korsleting Listrik,13,Dinas Pemadam Kebakaran ,Tidak Ada,95000000
+2017-06-26,"Jl. Puri Indah, Pasar Puri Indah Raya Blok 1 No 12, RT.01 RW.06 Kel.Kembangan Selatan Kec. Kembangan",Jakarta Barat,1,Bank BRI,Korsleting Listrik,9,Dinas Pemadam Kebakaran ,Tidak Ada,5000000
+2017-06-27,"Kavling POLRI, Blok A16 No. 367 RT. 11 RW. 07 Kel.Jelambar Kec.Grogol Petamburan",Jakarta Barat,1,Rumah Tinggal,Korsleting Listrik,9,Dinas Pemadam Kebakaran ,Tidak Ada,10000000
+2017-06-28,Jl. Kembang Permai III Blok. I No.5A RT. 01 RW. 06 Kel.Kembangan Selatan Kec.Kembangan,Jakarta Barat,1,Warung Kelontong,Korsleting Listrik,3,Dinas Pemadam Kebakaran ,Tidak Ada,2000000
+2017-06-04,Jl. Bangka IX No. 49 Kel. Pela mampang Kec. Mampang,Jakarta Selatan,1,Rumah Tinggal,Korsleting Listrik,4,Dinas Pemadam Kebakaran ,Tidak Ada,100000000
+2017-06-09,Jl. Jeruk Purut RT. 01 RW. 03 Kel. Cilandak Timur Kec. Pasar Minggu,Jakarta Selatan,1,Rumah Tinggal,Percikan Petasan,2,Dinas Pemadam Kebakaran ,Tidak Ada,10000000
+2017-06-13,Jl. Kebayoran Lama No.17 RT 03 RW 02 Kel. Cipulir Kec. Kebayoran Lama,Jakarta Selatan,1,Toko,Korsleting Listrik,19,Dinas Pemadam Kebakaran ,Tidak Ada,864000000
+2017-06-13,Jl. Swadaya 1 No.1   RT. 01  RW. 09 Kel. Pejaten Timur Kec. Pasar Minggu,Jakarta Selatan,1,Rumah Tinggal,Korsleting Listrik,2,Dinas Pemadam Kebakaran ,Tidak Ada,10000000
+2017-06-15,Jl. Guru Solihin No.07   RT.05  RW.05 Kel. Ulujami Kec. Pesanggrahan,Jakarta Selatan,5,Rumah Kost,Korsleting Listrik,2,Dinas Pemadam Kebakaran ,Tidak Ada,20000000
+2017-06-15,Jl. Halimun Raya No. 11 Blok D RT.08  RW.02 Kel. Guntur Kec. Setiabudi,Jakarta Selatan,1,Ruko,Korsleting Listrik,9,Dinas Pemadam Kebakaran ,Tidak Ada,200000000
+2017-06-22,Jl. Kebayoran Lama RT. 01 RW. 02 Kel. Kebayoran Lama Utara Kec. Kebayoran Lama,Jakarta Selatan,1,Lapak Pasar Kebayoran Lama,Korsleting Listrik,21,Dinas Pemadam Kebakaran ,Tidak Ada,1000000000
+2017-06-26, Jl. Prapanca   RT.011  RW.01 Kel. Petogogan Kec. Kebayoran Lama,Jakarta Selatan,1,Rumah Tinggal 3 Lantai,Korsleting Listrik,4,Dinas Pemadam Kebakaran ,Tidak Ada,150000000
+2017-06-01,Jl.Tipar Cakung RT. 01 RW. 07 Kel. Cakung Barat Kec. Cakung,Jakarta Timur,1,Rumah Tinggal,Korsleting Listrik,5,Dinas Pemadam Kebakaran ,Tidak Ada,50000000
+2017-06-01,Jl.Cipinang Muara III RT. 08 RW. 11 Kel. Cipinang Muara Kec. Jatinegara,Jakarta Timur,1,Rumah Tinggal,Korsleting Listrik,10,Dinas Pemadam Kebakaran ,Tidak Ada,35000000
+2017-06-03,Jl. Pulo Jahe RT. 007 RW. 14 Kel. Jatinegara Kec. Cakung,Jakarta Timur,1,Rumah Tinggal,Korsleting Listrik,1,Dinas Pemadam Kebakaran ,Tidak Ada,10000000
+2017-06-05,"Jl. Pahlawan Revolusi No.37, Gg. H Bakrie   RT. 09  RW. 04 Kel. Pondok Bambu Kec. Duren Sawit",Jakarta Timur,1,Rumah Tinggal,Korsleting Listrik,1,Dinas Pemadam Kebakaran ,Tidak Ada,100000000
+2017-06-07,Jl. Swadaya RT. 05 RW. 07 Kel. Jatinegara Kec. Cakung,Jakarta Timur,1,Rumah Tinggal,Korsleting Listrik,4,Dinas Pemadam Kebakaran ,Tidak Ada,85000000
+2017-06-09,"Jl. Masjid Islah Gg. Nusantara, RT. 008 RW. 007 Kel. Susukan Kec. Ciracas",Jakarta Timur,1,Rumah Tinggal,Korsleting Listrik,4,Dinas Pemadam Kebakaran ,Tidak Ada,210000000
+2017-06-12,"Jl. Raya Bogor KM 12, PD Pasar Induk Kramat Jati Blok C1 Kel. Kampung Tengah Kec. Kramat Jati",Jakarta Timur,90,Kios Pasar induk Kramat Jati Blok A dan Blok C1,Korsleting Listrik,19,Dinas Pemadam Kebakaran ,Tidak Ada,2700000000
+2017-06-12,Jl. Hasan RT. 01 RW. 01 Kel. Baru Kec. Pasar Rebo,Jakarta Timur,1,Rumah Tinggal,Korsleting Listrik,2,Dinas Pemadam Kebakaran ,Tidak Ada,20000000
+2017-06-13,Jl. Pulo Kambing II Kel. Rawa Terate Kec. Cakung,Jakarta Timur,1,Sebagian Rumah Tinggal,Korsleting Listrik,7,Dinas Pemadam Kebakaran ,Tidak Ada,5000000
+2017-06-19, Jl. Komarudin   RT.03 RW.02 Kel. Cakung Timur Kec. Cakung,Jakarta Timur,1,Rumah Tinggal,Korsleting Listrik,3,Dinas Pemadam Kebakaran ,Tidak Ada,10000000
+2017-06-19,Jl. Kalisari Raya RT. 08 RW. 010 Kel Pekayon Kec. Pasar Rebo ,Jakarta Timur,3,Rumah Usaha,Korsleting Listrik,7,Dinas Pemadam Kebakaran ,Tidak Ada,400000000
+2017-06-25,"Jl. Buluh Perinduh Raya 10,   RT.017  RW.06 Kel Pondok Bambu Kec. Duren Sait",Jakarta Timur,1,Rumah Tinggal ,Korsleting Listrik,8,Dinas Pemadam Kebakaran ,Tidak Ada,150000000
+2017-06-25,Jl. Raya Bekasi RT 003/RW 005 Kel Rawa Terate Kec.Cakung,Jakarta Timur,1,Gudang LAS,Korsleting Listrik,2,Dinas Pemadam Kebakaran ,Tidak Ada,1000000
+2017-06-30,"Jl. Lembah Aren XI Blok K2 No. 34, Kavling DKI RT. 01 RW. 09 Kel Pondok Kelapa Kec.Duren Sawit",Jakarta Timur,1,Rumah Tinggal,Korsleting Listrik,4,Dinas Pemadam Kebakaran ,Tidak Ada,0

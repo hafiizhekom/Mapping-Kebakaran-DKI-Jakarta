@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+
+ <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+</head>
+<body>
+<div id="map"></div>
+
+
+
+
+
+
+<script>
+
+$(document).ready(function() {
+      getPosSektor();
+});
+
+var datax;
+
+		 
+        function getPosSektor(){
+            $.ajax({
+            	dataType: "jsonp",
+                type: "GET",
+                url: 'http://localhost:5000/possektor',
+                data: {"check":"test"},
+                success: function(data){
+                    initMap(data[0]);
+                }
+            });
+        }
+
+       
+        
+
+     
+
+
+        
+
+
+      function initMap(datax) {
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: {lat:-6.21462, lng: 106.84513}
+        });
+
+        
+        setMarkers(map, datax);
+		
+        
+      }
+
+      function setMarkers(map, datax){
+
+
+      	var image = {
+          url: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png',
+          // This marker is 20 pixels wide by 32 pixels high.
+          size: new google.maps.Size(20, 32),
+          // The origin for this image is (0, 0).
+          origin: new google.maps.Point(0, 0),
+          // The anchor for this image is the base of the flagpole at (0, 32).
+          anchor: new google.maps.Point(0, 32)
+        };
+
+        var shape = {
+          coords: [1, 1, 1, 20, 18, 20, 18, 1],
+          type: 'poly'
+        };
+
+        $.each(datax, function(keys, vals) {
+      		 $.each(vals, function(key, val) {
+		        uluru = {lat: parseFloat(val['latitude']), lng: parseFloat(val['longitude'])};
+		        marker = new google.maps.Marker({
+		            position: uluru,
+					icon: {
+						  path: google.maps.SymbolPath.BACKWARD_OPEN_ARROW,
+						  scale: 2
+						},
+		            map: map,
+		            title: val['alamat']
+		          });
+            
+		      });
+        });
+
+      }
+      
+
+    </script>
+
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGzVxuw78X1ndwi2EONn7XQWUNCU25NXw&callback=initMap">
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+
+ <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+</head>
+<body>
+<div id="map"></div>
+
+
+<!-- HTML -->
+
+<button onclick="changeGradient()">Change gradient</button>
+
+
+
+<script>
+
+$(document).ready(function() {
+      getKebakaran();
+
+});
+
+
+var datax;
+
+		 
+        function getKebakaran(){
+            $.ajax({
+            	dataType: "jsonp",
+                type: "GET",
+                url: 'http://localhost:5000/kebakaran',
+                data: {"check":"test"},
+                success: function(data){
+                    initMap(data[0]);
+                }
+            });
+        }  
+
+        var map, heatmap;
+
+        function initMap(datax) {
+          map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 13,
+            center: {lat: -6.21462, lng: 106.84513},
+            mapTypeId: 'satellite'
+          });
+
+          heatmap = new google.maps.visualization.HeatmapLayer({
+            data: getArrayPoints(datax),
+            map: map
+          });
+
+          changeGradient();
+          changeGradient()
+        }
+
+        function changeGradient() {
+        var gradient = [
+          'rgba(0, 255, 255, 0)',
+          'rgba(0, 255, 255, 1)',
+          'rgba(0, 191, 255, 1)',
+          'rgba(0, 127, 255, 1)',
+          'rgba(0, 63, 255, 1)',
+          'rgba(0, 0, 255, 1)',
+          'rgba(0, 0, 223, 1)',
+          'rgba(0, 0, 191, 1)',
+          'rgba(0, 0, 159, 1)',
+          'rgba(0, 0, 127, 1)',
+          'rgba(63, 0, 91, 1)',
+          'rgba(127, 0, 63, 1)',
+          'rgba(191, 0, 31, 1)',
+          'rgba(255, 0, 0, 1)'
+        ]
+        heatmap.set('gradient', heatmap.get('gradient') ? null : gradient);
+      }
+
+      function getArrayPoints(datax){
+        var kebakarandata = [];
+        $.each(datax, function(keys, vals) {
+          $.each(vals, function(key, val) {
+              
+              if(isNaN(parseFloat(val['latitude'])) || isNaN(parseFloat(val['longitude']))) {
+
+              }else{
+                kebakarandata.push(new google.maps.LatLng(parseFloat(val['latitude']), parseFloat(val['longitude'])));
+              }
+              
+          });
+        });
+
+        
+        return kebakarandata;
+      }
+
+         
+
+      
+
+    </script>
+
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGzVxuw78X1ndwi2EONn7XQWUNCU25NXw&libraries=visualization&callback=initMap">
+    </script>
+
+</body>
+</html>
